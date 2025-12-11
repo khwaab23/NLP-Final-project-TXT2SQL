@@ -1,0 +1,52 @@
+# Core ML Libraries
+torch>=2.1.0
+transformers>=4.36.0
+accelerate>=0.25.0
+peft>=0.7.0
+bitsandbytes>=0.41.3
+trl>=0.7.4
+
+# Data Processing
+datasets>=2.15.0
+pandas>=2.1.4
+numpy>=1.24.0
+sqlparse>=0.4.4
+
+# API Clients for Generalist Models
+openai>=1.6.0
+google-generativeai>=0.3.0
+anthropic>=0.8.0
+
+# Evaluation & Metrics
+evaluate>=0.4.1
+rouge-score>=0.1.2
+sacrebleu>=2.3.1
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+wandb>=0.16.0
+
+# Configuration & Utils
+pyyaml>=6.0.1
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+rich>=13.7.0
+timeout-decorator>=0.5.0
+
+# Development Tools
+jupyter>=1.0.0
+notebook>=7.0.0
+ipywidgets>=8.1.0
+black>=23.12.0
+flake8>=7.0.0
+pytest>=7.4.0
+
+# Database & SQL
+sqlalchemy>=2.0.23
+psycopg2-binary>=2.9.9
+
+# Logging & Monitoring
+tensorboard>=2.15.0
+mlflow>=2.9.0

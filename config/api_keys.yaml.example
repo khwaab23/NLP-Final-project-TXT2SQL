@@ -1,0 +1,26 @@
+# API Keys Configuration
+# Copy this file to api_keys.yaml and fill in your actual keys
+# NEVER commit api_keys.yaml to version control!
+
+# OpenAI API (for GPT-4)
+openai:
+  api_key: "your-openai-api-key-here"
+  organization: "your-org-id-here"  # Optional
+
+# Google AI (for Gemini)
+google:
+  api_key: "your-google-api-key-here"
+
+# Anthropic (for Claude)
+anthropic:
+  api_key: "your-anthropic-api-key-here"
+
+# Hugging Face (for model downloads)
+huggingface:
+  token: "your-hf-token-here"
+
+# Weights & Biases (for experiment tracking)
+wandb:
+  api_key: "your-wandb-api-key-here"
+  project: "txt2sql-slm"
+  entity: "your-entity-here"  # Optional
