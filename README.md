@@ -304,13 +304,6 @@ evolution:
 - KL penalty: 0.1
 - Reward model: Execution accuracy + component match
 
-## Contributing
-
-Contributions are welcome! Please see CONTRIBUTING.md for guidelines.
-
-## License
-
-MIT License - see LICENSE file for details
 
 ## Acknowledgments
 
