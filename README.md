@@ -14,12 +14,6 @@
 
 **Demonstrating that Small Language Models can compete with GPT-4 on Text-to-SQL at 1% of the cost**
 
-[Installation](#-installation) •
-[Quick Start](#-quick-start) •
-[Documentation](#-documentation) •
-[Results](#-expected-results) •
-[Contributing](#-contributing)
-
 </div>
 
 ---
